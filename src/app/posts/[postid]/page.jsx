@@ -7,7 +7,7 @@ import { Card, CardBody, Typography } from "../../../../clientExports.js";
 import { useDispatch, useSelector } from "react-redux";
 import { getpost } from "../../../../redux-system/redux-slices/postslice.jsx";
 
-const page = () => {
+const PostPage = () => {
   const { postid } = useParams();
 
   const { postinfo } = useSelector((state) => state.postDetails);
@@ -27,4 +27,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default PostPage;
