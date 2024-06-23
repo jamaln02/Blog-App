@@ -115,7 +115,7 @@ The application fetches blog posts from the JSONPlaceholder API:
 
 ## Demo
 
-A video demo of the project can be found [here](#).
+A video demo of the project can be found [here](https://www.youtube.com/watch?v=vEphRK1hYwQ).
 
 ## Author
 
